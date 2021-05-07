@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Python programmer and aspiring penertration tester based in the UK.
+I am a Python programmer and aspiring penetration tester based in the UK.
 
 - 📫 How to reach me: atticus.goldsmith.work@gmail.com
 
