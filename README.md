@@ -2,8 +2,6 @@
 
 I am a Python programmer based in the UK.
 
-[![AelarLiadons's GitHub stats](https://github-readme-stats.vercel.app/api?username=aelarliadon&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
 - 📫 How to reach me: atticus.goldsmith.work@gmail.com
 
 <!--
